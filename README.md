@@ -6,4 +6,4 @@
 
 **Mi nombre**
 
-*Cambio en Local y en remoto*
+Cambio en *Local* y en *remoto*
