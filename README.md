@@ -6,9 +6,4 @@ Repositorio de ejemplo
 
 Mi nombre
 
-
-
-Cambio en Local
-
-
-
+Cambio en Local y en remoto
