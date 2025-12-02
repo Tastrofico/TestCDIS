@@ -1,9 +1,9 @@
 # TestCDIS
 
-Repositorio de ejemplo
+##Repositorio de ejemplo
 
 
 
-Mi nombre
+**Mi nombre**
 
-Cambio en Local y en remoto
+*Cambio en Local y en remoto*
